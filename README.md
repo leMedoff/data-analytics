@@ -52,5 +52,5 @@
 
 ## Контактная информация
 - Email: lemedoff@yandex.ru
-- LinkedIn: https://www.linkedin.com/in/username/
+- LinkedIn: https://www.linkedin.com/in/elena-m-32b622108/
 
